@@ -7,7 +7,7 @@ cask "snipzy" do
   desc "Menu bar snipping tool with annotation and OCR"
   homepage "https://github.com/epulla/snipzy"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Snipzy.app"
 

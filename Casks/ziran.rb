@@ -7,7 +7,7 @@ cask "ziran" do
   desc "Keyboard-first window switcher"
   homepage "https://github.com/epulla/ziran"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Ziran.app"
 
