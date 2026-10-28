@@ -1,6 +1,6 @@
 cask "snipzy" do
-  version "0.4.0"
-  sha256 "c25f881198b4636fe8e4516465e2f328252228654a5f84bb67647d8e34e6c9cc"
+  version "0.4.1"
+  sha256 "03616dbca04d1f9f0be0fee2849ccbd4dbd509996f9ac2a2d300af06ba5e1bcf"
 
   url "https://github.com/epulla/snipzy/releases/download/v#{version}/Snipzy-#{version}.zip"
   name "Snipzy"
