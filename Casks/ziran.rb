@@ -1,6 +1,6 @@
 cask "ziran" do
-  version "0.1.9"
-  sha256 "8999b8f2d2764b51db09097e1eb17ce6cba2e5f4f2d510cd10e53caa7952439e"
+  version "0.1.10"
+  sha256 "80ed5bc3897a8d058dbd090cdc64e119bb838f6cb100051fd15d86e6bafdf5f1"
 
   url "https://github.com/epulla/ziran/releases/download/v#{version}/Ziran-#{version}.zip"
   name "Ziran"
