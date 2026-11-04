@@ -1,9 +1,9 @@
 cask "patio" do
   arch arm: "arm64", intel: "amd64"
 
-  version "0.10.1"
-  sha256 arm:   "e6a7c6a94bd63b248970b156ed4c710939cb8c02ad46966602ab7baa820d5f24",
-         intel: "47d63d3185536789d20b0130c223d81e45f62fba8c40a96ab3e5141efbf10801"
+  version "0.10.2"
+  sha256 arm:   "cc74aacca3ed69e513178850fd3936d879ab138160f028aae137c515d9c4346c",
+         intel: "ee0ab2b52eeee6981f2055ab11b92336318757b8f402845d64dc47079a93ba06"
 
   url "https://github.com/epulla/patio/releases/download/v#{version}/patio-darwin-#{arch}.zip"
   name "Patio"
